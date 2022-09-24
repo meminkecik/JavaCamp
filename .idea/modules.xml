@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaCamp.iml" filepath="$PROJECT_DIR$/.idea/JavaCamp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaLesson5/JavaLesson5.iml" filepath="$PROJECT_DIR$/JavaLesson5/JavaLesson5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JavaLesson6Veriables/JavaLesson6Veriables.iml" filepath="$PROJECT_DIR$/JavaLesson6Veriables/JavaLesson6Veriables.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson10SwitchDemo/javaLesson10SwitchDemo.iml" filepath="$PROJECT_DIR$/javaLesson10SwitchDemo/javaLesson10SwitchDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson11LoopDemo/javaLesson11LoopDemo.iml" filepath="$PROJECT_DIR$/javaLesson11LoopDemo/javaLesson11LoopDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson12LoopDemo/javaLesson12LoopDemo.iml" filepath="$PROJECT_DIR$/javaLesson12LoopDemo/javaLesson12LoopDemo.iml" />
@@ -12,12 +10,26 @@
       <module fileurl="file://$PROJECT_DIR$/javaLesson14ArraysDemo/javaLesson14ArraysDemo.iml" filepath="$PROJECT_DIR$/javaLesson14ArraysDemo/javaLesson14ArraysDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson15ReCapDemo2/javaLesson15ReCapDemo2.iml" filepath="$PROJECT_DIR$/javaLesson15ReCapDemo2/javaLesson15ReCapDemo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson16MultiArrays/javaLesson16MultiArrays.iml" filepath="$PROJECT_DIR$/javaLesson16MultiArrays/javaLesson16MultiArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/javaLesson17StringsDemo/javaLesson17StringsDemo.iml" filepath="$PROJECT_DIR$/javaLesson17StringsDemo/javaLesson17StringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson17and18StringsDemo/javaLesson17and18StringsDemo.iml" filepath="$PROJECT_DIR$/javaLesson17and18StringsDemo/javaLesson17and18StringsDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson19MiniProject1/javaLesson19MiniProject1.iml" filepath="$PROJECT_DIR$/javaLesson19MiniProject1/javaLesson19MiniProject1.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson20MiniProject2/javaLesson20MiniProject2.iml" filepath="$PROJECT_DIR$/javaLesson20MiniProject2/javaLesson20MiniProject2.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson21MiniProject3/javaLesson21MiniProject3.iml" filepath="$PROJECT_DIR$/javaLesson21MiniProject3/javaLesson21MiniProject3.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson22MiniProject4/javaLesson22MiniProject4.iml" filepath="$PROJECT_DIR$/javaLesson22MiniProject4/javaLesson22MiniProject4.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson23MiniProject5/javaLesson23MiniProject5.iml" filepath="$PROJECT_DIR$/javaLesson23MiniProject5/javaLesson23MiniProject5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson24Methods/javaLesson24Methods.iml" filepath="$PROJECT_DIR$/javaLesson24Methods/javaLesson24Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson25Methods2/javaLesson25Methods2.iml" filepath="$PROJECT_DIR$/javaLesson25Methods2/javaLesson25Methods2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson26VeriableArguments/javaLesson26VeriableArguments.iml" filepath="$PROJECT_DIR$/javaLesson26VeriableArguments/javaLesson26VeriableArguments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson27and28Classes/javaLesson27and28Classes.iml" filepath="$PROJECT_DIR$/javaLesson27and28Classes/javaLesson27and28Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson29ValueAndReferanceType/javaLesson29ValueAndReferanceType.iml" filepath="$PROJECT_DIR$/javaLesson29ValueAndReferanceType/javaLesson29ValueAndReferanceType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson30ReCapDemoClasses/javaLesson30ReCapDemoClasses.iml" filepath="$PROJECT_DIR$/javaLesson30ReCapDemoClasses/javaLesson30ReCapDemoClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson31ClassesWithAttributes/javaLesson31ClassesWithAttributes.iml" filepath="$PROJECT_DIR$/javaLesson31ClassesWithAttributes/javaLesson31ClassesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson32and33Encapsulation/javaLesson32and33Encapsulation.iml" filepath="$PROJECT_DIR$/javaLesson32and33Encapsulation/javaLesson32and33Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson34Constructor/javaLesson34Constructor.iml" filepath="$PROJECT_DIR$/javaLesson34Constructor/javaLesson34Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson35MethodOverloading/javaLesson35MethodOverloading.iml" filepath="$PROJECT_DIR$/javaLesson35MethodOverloading/javaLesson35MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson36Inheritance/javaLesson36Inheritance.iml" filepath="$PROJECT_DIR$/javaLesson36Inheritance/javaLesson36Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson37InheritanceDemo/javaLesson37InheritanceDemo.iml" filepath="$PROJECT_DIR$/javaLesson37InheritanceDemo/javaLesson37InheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson5/javaLesson5.iml" filepath="$PROJECT_DIR$/javaLesson5/javaLesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaLesson6Veriables/javaLesson6Veriables.iml" filepath="$PROJECT_DIR$/javaLesson6Veriables/javaLesson6Veriables.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson7DataTypes/javaLesson7DataTypes.iml" filepath="$PROJECT_DIR$/javaLesson7DataTypes/javaLesson7DataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson8Conditionals/javaLesson8Conditionals.iml" filepath="$PROJECT_DIR$/javaLesson8Conditionals/javaLesson8Conditionals.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaLesson9ReCapDemo1/javaLesson9ReCapDemo1.iml" filepath="$PROJECT_DIR$/javaLesson9ReCapDemo1/javaLesson9ReCapDemo1.iml" />
